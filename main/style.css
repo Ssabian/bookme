@@ -1,0 +1,129 @@
+body{
+	 background-image: url('http://1.bp.blogspot.com/-skY21-U-YN4/Tunzb16a7hI/AAAAAAAAGoo/sHbyQ9Vd1i4/s1600/Download%2Bfree%2BPlain%2Bbackground%2Bwallpaper.jpg'); 
+	 background-size: cover;
+}
+
+li a{
+	text-decoration: none;
+}
+  
+#test{
+	position	: relative;
+    height: 230px;
+    /* margin-bottom: -28px; */
+    margin-top: 0px;
+    width: 100%;
+    display:none;
+}
+.menu{
+	box-shadow: -1px -1px 20px #6E21BA; 
+}
+
+.loqotip li{
+	font-size: 30px;
+    display: inline-block;
+    font-family: 'Yellowtail', cursive;	
+}
+.myMenu{transition: all 1s ease;
+	text-align: center;
+}
+.myMenu li a:hover{
+	transition: all 1s ease;
+	text-decoration: none;
+	border: #6E21BA;
+
+}
+.myMenu li{
+	margin: 12px 19px 10px 12px;
+	font-family: 'Oswald', sans-serif;
+	display: inline-block;
+	transition: all 1s ease;
+}
+.contact{transition: all 1s ease;
+	float: right;
+}
+.contact li{
+	font-family: 'Oswald', sans-serif;
+	margin: 12px 60px 10px 12px;
+	display: inline-block;
+	transition: all 1s ease;
+}
+.contact li a:hover{
+	transition: all 1s ease;
+	text-decoration: none;
+	border: #6E21BA;
+}
+ul{
+	float: left;
+}
+/*menu end*/
+
+.login{
+	border-radius: 30px;
+	margin-top: 30px;
+	height: 500px;
+    box-shadow: -1px -4px 20px #6E21BA;
+
+}
+form{
+	padding: 22px;
+margin: 25px;
+}
+
+
+
+/*slider*/
+.slider{
+  width:750px;
+  height: 400px;
+  margin-top: 30px;
+  overflow: hidden;
+  /*margin:auto;*/
+  padding: 0;
+}
+#images{
+ float: left;
+  width: 6000px;
+  height: 500px;
+  overflow: hidden;
+
+  transition: all 1s;
+  margin: 0;
+  padding: 0;
+  }
+#images img{
+box-shadow: -1px -4px 20px #6E21BA;
+  width: 750px;
+  height: 500px;
+  float: left;
+  margin: 0px;
+  padding: 0px;
+}
+#sliderImg{
+  /*width: 1000px;*/
+  height: 90px;
+  position: absolute;
+  padding: 0px;
+  top:440px;
+}
+#sliderImg img{
+      width: 147px;
+    height: 90px;
+  /*border-radius: 200px;*/
+  /*border: 1px solid red;*/
+}
+
+.test {
+	position: relative;
+	height: 200px;
+	background: #707883;
+	overflow: hidden;
+}
+
+.headphone{
+	margin: -10px 11px 0px 0px;
+	color: #337AB7;
+}
+.marquee{
+
+}
